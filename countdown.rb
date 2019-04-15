@@ -10,6 +10,6 @@ def countdown(number)
   while number > 0 
   number -= 1
 end
-puts "HAPPY NEW YEAR!"
+returns"HAPPY NEW YEAR!"
 end
 end
